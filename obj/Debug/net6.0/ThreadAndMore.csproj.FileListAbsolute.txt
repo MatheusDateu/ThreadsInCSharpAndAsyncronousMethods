@@ -1,0 +1,15 @@
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\bin\Debug\net6.0\ThreadAndMore.exe
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\bin\Debug\net6.0\ThreadAndMore.deps.json
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\bin\Debug\net6.0\ThreadAndMore.runtimeconfig.json
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\bin\Debug\net6.0\ThreadAndMore.dll
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\bin\Debug\net6.0\ThreadAndMore.pdb
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\obj\Debug\net6.0\ThreadAndMore.csproj.AssemblyReference.cache
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\obj\Debug\net6.0\ThreadAndMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\obj\Debug\net6.0\ThreadAndMore.AssemblyInfoInputs.cache
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\obj\Debug\net6.0\ThreadAndMore.AssemblyInfo.cs
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\obj\Debug\net6.0\ThreadAndMore.csproj.CoreCompileInputs.cache
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\obj\Debug\net6.0\ThreadAndMore.dll
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\obj\Debug\net6.0\refint\ThreadAndMore.dll
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\obj\Debug\net6.0\ThreadAndMore.pdb
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\obj\Debug\net6.0\ThreadAndMore.genruntimeconfig.cache
+C:\Users\mdelm\OneDrive\Documents\My Games\Joguinho\ThreadAndMore\obj\Debug\net6.0\ref\ThreadAndMore.dll
